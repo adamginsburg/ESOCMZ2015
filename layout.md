@@ -12,3 +12,4 @@ section_Preparing_for_Cycle_4__.tex
 section_SMA_CMZ_8_GHz__.tex
 section_Mixed_temperature_components_How__.tex
 section_Hi_Gal_Compact_Sources__.tex
+section_Milky_Way_simulation_Emsellem__.tex
