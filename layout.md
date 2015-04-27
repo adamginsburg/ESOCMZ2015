@@ -7,6 +7,7 @@ section_Comparison_to_other_Galaxies__.tex
 section_Molecular_gas_around_a__.tex
 section_Summary_of_existing_and__.tex
 figures/CMZ_surveys1/CMZ_surveys1.png
+figures/ALMA_CMZ/ALMA_CMZ.png
 section_Proposals_Ideas_and_plans__.tex
 section_Preparing_for_Cycle_4__.tex
 section_SMA_CMZ_8_GHz__.tex
