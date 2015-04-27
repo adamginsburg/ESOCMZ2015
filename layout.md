@@ -10,3 +10,4 @@ section_Proposals_Ideas_and_plans__.tex
 section_Preparing_for_Cycle_4__.tex
 section_SMA_CMZ_8_GHz__.tex
 section_Mixed_temperature_components_How__.tex
+section_Hi_Gal_Compact_Sources__.tex
