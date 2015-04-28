@@ -19,4 +19,4 @@ section_Hi_Gal_Compact_Sources__.tex
 section_Milky_Way_simulation_Emsellem__.tex
 section_The_IMF__.tex
 Comments_from_Padelis_The_relevant__.tex
-Future_Meetings__.tex
+Future_Meetings_Prior_to_Cycle__.tex
