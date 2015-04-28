@@ -4,6 +4,7 @@ subsection_Global_properties_Total_molecular__.tex
 section_Cores_in_the_CMZ__.tex
 section_Comparison_to_the_Galactic__.tex
 section_Comparison_to_other_Galaxies__.tex
+figures/ALMA_fig2/ALMA_fig2.png
 section_Molecular_gas_around_a__.tex
 section_Summary_of_existing_and__.tex
 figures/CMZ_surveys1/CMZ_surveys1.png
